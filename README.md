@@ -9,4 +9,4 @@
 * If necessary, on the main screen, the user can view weather conditions anywhere in the world using the search bar. To return to the current geo-position, you only need to use the button in the upper left corner.
 * Implemented the function to add a new city (button in the lower right corner).
 * Supports adaptation to light and dark screen themes.
-* В проекте используются SF Symbols. Установить по ссылке: https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/
+* The project uses SF Symbols. Install by following the link: https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/
